@@ -1,4 +1,4 @@
-- Hi👋, I’m @ilhamshodiq ✌👨‍💻
+- 👋 Hi, I’m @ilhamshodiq ✌👨‍💻
 - 🌱 I’m currently learning Python, java, and javascript
 
 <!---
