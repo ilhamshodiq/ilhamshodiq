@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ilhamshodiq ✌👨‍💻
-- 🌱 I’m currently learning Python, java, and javascript
+- 🌱 I’m currently learning Python, java, javascript, and dart
+- 👨‍💻 I'm currently working on discord bot project 🤖;
 
 <!---
 ilhamshodiq/ilhamshodiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
