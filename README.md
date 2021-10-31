@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilhamshodiq ✌👨‍💻
-- 🌱 I’m currently learning Python, java, javascript, node JS, HTML, CSS and dart (i'm trying to learn everything actually 🤣)
+- 🌱 I’m currently learning Python, java, javascript, node JS and Flutter dart (everything i like to learn 🤣)
 - 👨‍💻 I'm currently working on discord bot project 🤖 and mobile app project 📱
 
 <!---
