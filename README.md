@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @ilhamshodiq ✌👨‍💻
 - 🌱 I’m currently learning Python, java, javascript, node JS and Flutter dart (learn everything i like to learn 🤣)
+- <img src="{https://github-readme-stats.vercel.app/api/top-langs/?username={ilhamshodiq}}" />
 <!-- - 👨‍💻 I'm currently working on discord bot project 🤖 and mobile app project 📱 -->
 
 
 
 
- <img src="{https://github-readme-stats.vercel.app/api/top-langs/?username={ilhamshodiq}}" />
 
 <!---
 ilhamshodiq/ilhamshodiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
