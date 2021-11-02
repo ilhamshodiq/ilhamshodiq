@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilhamshodiq ✌👨‍💻
 - 🌱 I’m currently learning Python, java, javascript, node JS and Flutter dart (learn everything i like to learn 🤣)
-- 👨‍💻 I'm currently working on discord bot project 🤖 and mobile app project 📱
+<!-- - 👨‍💻 I'm currently working on discord bot project 🤖 and mobile app project 📱 -->
 
 <!---
 ilhamshodiq/ilhamshodiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
