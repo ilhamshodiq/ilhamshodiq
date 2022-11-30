@@ -80,5 +80,3 @@
   <img src="https://profile-counter.glitch.me/ilhamshodiq/count.svg?"  />
 </div>
 
-###
-Profile Readme Generator
