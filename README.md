@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🤨 I'm a student<br>💻 Trying to understand what i don't understand<br>📚 I'm currently learning <b>Mobile Dev</b> and <b>NodeJS</b> <br>🎯 Currently working on my project</p>
+<p align="left">🤨 I'm a student<br>💻 Trying to understand what i don't understand<br>📚 I'm currently focusing on learning <b>Mobile Dev</b> and <b>NodeJS</b> <br>🎯 Currently working on my project</p>
 
 ###
 
