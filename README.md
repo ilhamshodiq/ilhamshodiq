@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h2 align="center">Programming Languages & Tools Currently Learn :</h2>
+<h2 align="center">Programming Languages & Tools being learned :</h2>
 
 ###
 
