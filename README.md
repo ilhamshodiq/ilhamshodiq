@@ -1,39 +1,32 @@
 # Ilham Shodiq
 
-Membangun solusi yang berguna — fokus pada Android, Flutter, dan arsitektur backend.
+Building things
+
 
 ---
 
-## Tentang
+## Current 'Works'
 
-Halo! Saya Ilham. Saya menekuni pengembangan aplikasi full‑stack dan desain arsitektur backend yang bersih dan dapat diskalakan. Saya suka bereksperimen dengan teknologi mobile dan server, lalu menyatukannya menjadi produk yang nyata.
-
----
-
-## Sedang Dikerjakan
-
-- Personal Knowledge Vault — sistem untuk menyimpan, mengorganisir, dan menelusuri catatan pribadi
-- Aplikasi Full‑stack — aplikasi mobile/web yang terintegrasi dengan backend
-- Eksperimen Arsitektur Backend — desain API, autentikasi, dan skalabilitas
+* **Personal Knowledge Vault** — a system for storing and organizing personal knowledge
+* **Full-stack Applications** — mobile and web applications with integrated backends
+* **Backend Architecture** — APIs, authentication, databases, and system design
 
 ---
 
-## Tech Stack
+## Stack
 
-Android • Flutter • Go • Node.js • React • PostgreSQL
-
----
-
-## Status Saat Ini
-
-Berusaha menjaga proyek tetap terorganisir dan konsisten sambil terus belajar dan memperbaiki alur kerja.
+`Flutter` · `Android` · `Go` · `Node.js` · `Express` · `React` · `PostgreSQL` · `Firebase`
 
 ---
 
-## Kontak
+## Focus
 
-- LinkedIn: https://www.linkedin.com/in/ilhamshodiq12/
-- Discord: https://discordapp.com/users/531057363268927498
-- Medium: https://medium.com/@ilhamshodiqThe12sMirasific
+Clean architecture(ask AI).
+Practical systems(ask AI).
+Continuous improvement(ask AI).
 
-Tertarik berkolaborasi atau berdiskusi? Silakan hubungi lewat LinkedIn atau Discord.
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ilhamshodiq12/) · [Discord](https://discordapp.com/users/531057363268927498) · [Medium](https://medium.com/@ilhamshodiqThe12sMirasific)
